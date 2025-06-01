@@ -1,0 +1,827 @@
+{
+    "AED": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1ea.svg",
+        "displayName": "阿联酋迪拉姆",
+        "symbol": "د.إ"
+    },
+    "AFN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1eb.svg",
+        "displayName": "阿富汗尼",
+        "symbol": "؋"
+    },
+    "ALL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1f1.svg",
+        "displayName": "阿尔巴尼列克",
+        "symbol": "Lek"
+    },
+    "AMD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1f2.svg",
+        "displayName": "亚美尼亚德拉姆",
+        "symbol": ""
+    },
+    "ANG": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1fc.svg",
+        "displayName": "荷属安的列斯盾",
+        "symbol": "ƒ"
+    },
+    "AOA": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1f4.svg",
+        "displayName": "安哥拉宽扎",
+        "symbol": ""
+    },
+    "ARS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1f7.svg",
+        "displayName": "阿根廷比索",
+        "symbol": "$"
+    },
+    "AUD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1fa.svg",
+        "displayName": "澳大利亚元",
+        "symbol": "$"
+    },
+    "AWG": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1fc.svg",
+        "displayName": "阿鲁巴弗罗林",
+        "symbol": "ƒ"
+    },
+    "AZN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1ff.svg",
+        "displayName": "阿塞拜疆马纳特",
+        "symbol": "₼"
+    },
+    "BAM": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1e6.svg",
+        "displayName": "波黑可兑换马克",
+        "symbol": "KM"
+    },
+    "BBD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1e7.svg",
+        "displayName": "巴巴多斯元",
+        "symbol": "$"
+    },
+    "BDT": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1e9.svg",
+        "displayName": "孟加拉塔卡",
+        "symbol": "৳"
+    },
+    "BGN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1ec.svg",
+        "displayName": "保加利亚列弗",
+        "symbol": "лв"
+    },
+    "BHD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1ed.svg",
+        "displayName": "巴林第纳尔",
+        "symbol": ""
+    },
+    "BIF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1ee.svg",
+        "displayName": "布隆迪法郎",
+        "symbol": ""
+    },
+    "BMD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1f2.svg",
+        "displayName": "百慕大元",
+        "symbol": "$"
+    },
+    "BND": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1f3.svg",
+        "displayName": "文莱元",
+        "symbol": "$"
+    },
+    "BOB": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1f4.svg",
+        "displayName": "玻利维亚诺",
+        "symbol": "Bs"
+    },
+    "BRL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1f7.svg",
+        "displayName": "巴西雷亚尔",
+        "symbol": "R$"
+    },
+    "BSD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1f8.svg",
+        "displayName": "巴哈马元",
+        "symbol": "$"
+    },
+    "BTC": {
+        "icon": "",
+        "displayName": "比特币",
+        "symbol": "₿"
+    },
+    "BTN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1f9.svg",
+        "displayName": "不丹努扎姆",
+        "symbol": "Nu."
+    },
+    "BWP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1fc.svg",
+        "displayName": "博茨瓦纳普拉",
+        "symbol": "P"
+    },
+    "BYN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1fe.svg",
+        "displayName": "白俄罗斯卢布",
+        "symbol": "Br"
+    },
+    "BZD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e7-1f1ff.svg",
+        "displayName": "伯利兹元",
+        "symbol": "BZ$"
+    },
+    "CAD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1e6.svg",
+        "displayName": "加拿大元",
+        "symbol": "$"
+    },
+    "CDF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1e9.svg",
+        "displayName": "刚果法郎",
+        "symbol": ""
+    },
+    "CHF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1ed.svg",
+        "displayName": "瑞士法郎",
+        "symbol": "CHF"
+    },
+    "CLP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f1.svg",
+        "displayName": "智利比索",
+        "symbol": "$"
+    },
+    "CNY": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f3.svg",
+        "displayName": "人民币",
+        "symbol": "¥"
+    },
+    "CNH": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f3.svg",
+        "displayName": "离岸人民币",
+        "symbol": "¥"
+    },
+    "COP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f4.svg",
+        "displayName": "哥伦比亚比索",
+        "symbol": "$"
+    },
+    "CRC": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1f7.svg",
+        "displayName": "哥斯达黎加科朗",
+        "symbol": "₡"
+    },
+    "CUC": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1fa.svg",
+        "displayName": "古巴可兑换比索",
+        "symbol": "$"
+    },
+    "CUP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1fa.svg",
+        "displayName": "古巴比索",
+        "symbol": "₱"
+    },
+    "CVE": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1fb.svg",
+        "displayName": "佛得角埃斯库多",
+        "symbol": ""
+    },
+    "CZK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e8-1f1ff.svg",
+        "displayName": "捷克克朗",
+        "symbol": "Kč"
+    },
+    "DJF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1ef.svg",
+        "displayName": "吉布提法郎",
+        "symbol": ""
+    },
+    "DKK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1f0.svg",
+        "displayName": "丹麦克朗",
+        "symbol": "kr"
+    },
+    "DOP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1f4.svg",
+        "displayName": "多米尼加比索",
+        "symbol": "RD$"
+    },
+    "DZD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1ff.svg",
+        "displayName": "阿尔及利亚第纳尔",
+        "symbol": ""
+    },
+    "EGP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ea-1f1ec.svg",
+        "displayName": "埃及镑",
+        "symbol": "£"
+    },
+    "ERN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ea-1f1f7.svg",
+        "displayName": "厄立特里亚纳克法",
+        "symbol": ""
+    },
+    "ETB": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ea-1f1f9.svg",
+        "displayName": "埃塞俄比亚比尔",
+        "symbol": ""
+    },
+    "EUR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ea-1f1fa.svg",
+        "displayName": "欧元",
+        "symbol": "€"
+    },
+    "FJD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1eb-1f1ef.svg",
+        "displayName": "斐济元",
+        "symbol": "$"
+    },
+    "FKP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1eb-1f1f0.svg",
+        "displayName": "福克兰群岛镑",
+        "symbol": "£"
+    },
+    "GBP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg",
+        "displayName": "英镑",
+        "symbol": "£"
+    },
+    "GEL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1ea.svg",
+        "displayName": "格鲁吉亚拉里",
+        "symbol": ""
+    },
+    "GGP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1ec.svg",
+        "displayName": "根西镑",
+        "symbol": "£"
+    },
+    "GHS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1ed.svg",
+        "displayName": "加纳塞地",
+        "symbol": ""
+    },
+    "GIP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1ee.svg",
+        "displayName": "直布罗陀镑",
+        "symbol": "£"
+    },
+    "GMD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1f2.svg",
+        "displayName": "冈比亚达拉西",
+        "symbol": ""
+    },
+    "GNF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1f3.svg",
+        "displayName": "几内亚法郎",
+        "symbol": ""
+    },
+    "GTQ": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1f9.svg",
+        "displayName": "危地马拉格查尔",
+        "symbol": "Q"
+    },
+    "GYD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1fe.svg",
+        "displayName": "圭亚那元",
+        "symbol": "$"
+    },
+    "HKD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ed-1f1f0.svg",
+        "displayName": "港元",
+        "symbol": "$"
+    },
+    "HNL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ed-1f1f3.svg",
+        "displayName": "洪都拉斯伦皮拉",
+        "symbol": "L"
+    },
+    "HRK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ed-1f1f7.svg",
+        "displayName": "克罗地亚库纳",
+        "symbol": "kn"
+    },
+    "HTG": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ed-1f1f9.svg",
+        "displayName": "海地古德",
+        "symbol": ""
+    },
+    "HUF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ed-1f1fa.svg",
+        "displayName": "匈牙利福林",
+        "symbol": "Ft"
+    },
+    "IDR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1e9.svg",
+        "displayName": "印尼卢比",
+        "symbol": "Rp"
+    },
+    "ILS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f1.svg",
+        "displayName": "以色列新谢克尔",
+        "symbol": "₪"
+    },
+    "IMP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f2.svg",
+        "displayName": "马恩岛镑",
+        "symbol": "£"
+    },
+    "INR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f3.svg",
+        "displayName": "印度卢比",
+        "symbol": "₹"
+    },
+    "IQD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f6.svg",
+        "displayName": "伊拉克第纳尔",
+        "symbol": ""
+    },
+    "IRR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f7.svg",
+        "displayName": "伊朗里亚尔",
+        "symbol": "﷼"
+    },
+    "ISK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f8.svg",
+        "displayName": "冰岛克朗",
+        "symbol": "kr"
+    },
+    "JEP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ef-1f1ea.svg",
+        "displayName": "泽西镑",
+        "symbol": "£"
+    },
+    "JMD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ef-1f1f2.svg",
+        "displayName": "牙买加元",
+        "symbol": "J$"
+    },
+    "JOD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ef-1f1f4.svg",
+        "displayName": "约旦第纳尔",
+        "symbol": ""
+    },
+    "JPY": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ef-1f1f5.svg",
+        "displayName": "日元",
+        "symbol": "¥"
+    },
+    "KES": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1ea.svg",
+        "displayName": "肯尼亚先令",
+        "symbol": ""
+    },
+    "KGS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1ec.svg",
+        "displayName": "吉尔吉斯斯坦索姆",
+        "symbol": "сом"
+    },
+    "KHR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1ed.svg",
+        "displayName": "柬埔寨瑞尔",
+        "symbol": "៛"
+    },
+    "KMF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1f2.svg",
+        "displayName": "科摩罗法郎",
+        "symbol": ""
+    },
+    "KPW": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1f5.svg",
+        "displayName": "朝鲜元",
+        "symbol": "₩"
+    },
+    "KRW": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1f7.svg",
+        "displayName": "韩元",
+        "symbol": "₩"
+    },
+    "KWD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1fc.svg",
+        "displayName": "科威特第纳尔",
+        "symbol": ""
+    },
+    "KYD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1fe.svg",
+        "displayName": "开曼群岛元",
+        "symbol": "$"
+    },
+    "KZT": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f0-1f1ff.svg",
+        "displayName": "哈萨克坚戈",
+        "symbol": "₸"
+    },
+    "LAK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1e6.svg",
+        "displayName": "老挝基普",
+        "symbol": "₭"
+    },
+    "LBP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1e7.svg",
+        "displayName": "黎巴嫩镑",
+        "symbol": "£"
+    },
+    "LKR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1f0.svg",
+        "displayName": "斯里兰卡卢比",
+        "symbol": "Rs"
+    },
+    "LRD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1f7.svg",
+        "displayName": "利比里亚元",
+        "symbol": "$"
+    },
+    "LSL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1f8.svg",
+        "displayName": "莱索托洛蒂",
+        "symbol": "L"
+    },
+    "LTL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1f9.svg",
+        "displayName": "立陶宛立特",
+        "symbol": "Lt"
+    },
+    "LVL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1fb.svg",
+        "displayName": "拉脱维亚拉特",
+        "symbol": "Ls"
+    },
+    "LYD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f1-1f1fe.svg",
+        "displayName": "利比亚第纳尔",
+        "symbol": ""
+    },
+    "MAD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1e6.svg",
+        "displayName": "摩洛哥迪拉姆",
+        "symbol": ""
+    },
+    "MDL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1e9.svg",
+        "displayName": "摩尔多瓦列伊",
+        "symbol": ""
+    },
+    "MGA": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1ec.svg",
+        "displayName": "马达加斯加阿里亚里",
+        "symbol": ""
+    },
+    "MKD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1f0.svg",
+        "displayName": "马其顿代纳尔",
+        "symbol": "ден"
+    },
+    "MMK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1f2.svg",
+        "displayName": "缅甸元",
+        "symbol": ""
+    },
+    "MNT": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1f3.svg",
+        "displayName": "蒙古图格里克",
+        "symbol": "₮"
+    },
+    "MOP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1f4.svg",
+        "displayName": "澳门元",
+        "symbol": "MOP$"
+    },
+    "MRU": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1f7.svg",
+        "displayName": "毛里塔尼亚乌吉亚",
+        "symbol": "UM"
+    },
+    "MUR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1fa.svg",
+        "displayName": "毛里求斯卢比",
+        "symbol": "₨"
+    },
+    "MVR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1fb.svg",
+        "displayName": "马尔代夫拉菲亚",
+        "symbol": ""
+    },
+    "MWK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1fc.svg",
+        "displayName": "马拉维克瓦查",
+        "symbol": ""
+    },
+    "MXN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1fd.svg",
+        "displayName": "墨西哥比索",
+        "symbol": "$"
+    },
+    "MYR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1fe.svg",
+        "displayName": "马来西亚林吉特",
+        "symbol": "RM"
+    },
+    "MZN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1ff.svg",
+        "displayName": "莫桑比克梅蒂卡尔",
+        "symbol": "MT"
+    },
+    "NAD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f3-1f1e6.svg",
+        "displayName": "纳米比亚元",
+        "symbol": "$"
+    },
+    "NGN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f3-1f1ec.svg",
+        "displayName": "尼日利亚奈拉",
+        "symbol": "₦"
+    },
+    "NIO": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f3-1f1ee.svg",
+        "displayName": "尼加拉瓜科多巴",
+        "symbol": "C$"
+    },
+    "NOK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f3-1f1f4.svg",
+        "displayName": "挪威克朗",
+        "symbol": "kr"
+    },
+    "NPR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f3-1f1f5.svg",
+        "displayName": "尼泊尔卢比",
+        "symbol": "₨"
+    },
+    "NZD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f3-1f1ff.svg",
+        "displayName": "新西兰元",
+        "symbol": "$"
+    },
+    "OMR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f4-1f1f2.svg",
+        "displayName": "阿曼里亚尔",
+        "symbol": "﷼"
+    },
+    "PAB": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1e6.svg",
+        "displayName": "巴拿马巴波亚",
+        "symbol": "B/."
+    },
+    "PEN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1ea.svg",
+        "displayName": "秘鲁索尔",
+        "symbol": "S/."
+    },
+    "PGK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1ec.svg",
+        "displayName": "巴布亚新几内亚基那",
+        "symbol": ""
+    },
+    "PHP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1ed.svg",
+        "displayName": "菲律宾比索",
+        "symbol": "₱"
+    },
+    "PKR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1f0.svg",
+        "displayName": "巴基斯坦卢比",
+        "symbol": "₨"
+    },
+    "PLN": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1f1.svg",
+        "displayName": "波兰兹罗提",
+        "symbol": "zł"
+    },
+    "PYG": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1fe.svg",
+        "displayName": "巴拉圭瓜拉尼",
+        "symbol": "Gs"
+    },
+    "QAR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f6-1f1e6.svg",
+        "displayName": "卡塔尔里亚尔",
+        "symbol": "﷼"
+    },
+    "RON": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f7-1f1f4.svg",
+        "displayName": "罗马尼亚列伊",
+        "symbol": "lei"
+    },
+    "RSD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f7-1f1f8.svg",
+        "displayName": "塞尔维亚第纳尔",
+        "symbol": "дин"
+    },
+    "RUB": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f7-1f1fa.svg",
+        "displayName": "俄罗斯卢布",
+        "symbol": "₽"
+    },
+    "RWF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f7-1f1fc.svg",
+        "displayName": "卢旺达法郎",
+        "symbol": ""
+    },
+    "SAR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1e6.svg",
+        "displayName": "沙特里亚尔",
+        "symbol": "﷼"
+    },
+    "SBD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1e7.svg",
+        "displayName": "所罗门群岛元",
+        "symbol": "$"
+    },
+    "SCR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1e8.svg",
+        "displayName": "塞舌尔卢比",
+        "symbol": "₨"
+    },
+    "SDG": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1e9.svg",
+        "displayName": "苏丹镑",
+        "symbol": ""
+    },
+    "SEK": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1ea.svg",
+        "displayName": "瑞典克朗",
+        "symbol": "kr"
+    },
+    "SGD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1ec.svg",
+        "displayName": "新加坡元",
+        "symbol": "$"
+    },
+    "SHP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1ed.svg",
+        "displayName": "圣赫勒拿镑",
+        "symbol": "£"
+    },
+    "SLL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1f1.svg",
+        "displayName": "塞拉利昂利昂",
+        "symbol": ""
+    },
+    "SOS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1f4.svg",
+        "displayName": "索马里先令",
+        "symbol": "S"
+    },
+    "SRD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1f7.svg",
+        "displayName": "苏里南元",
+        "symbol": "$"
+    },
+    "STD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1f9.svg",
+        "displayName": "圣多美多布拉",
+        "symbol": ""
+    },
+    "SVC": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1fb.svg",
+        "displayName": "萨尔瓦多科朗",
+        "symbol": "$"
+    },
+    "SYP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1fe.svg",
+        "displayName": "叙利亚镑",
+        "symbol": "£"
+    },
+    "SZL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f8-1f1ff.svg",
+        "displayName": "斯威士兰里兰吉尼",
+        "symbol": ""
+    },
+    "THB": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1ed.svg",
+        "displayName": "泰铢",
+        "symbol": "฿"
+    },
+    "TJS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1ef.svg",
+        "displayName": "塔吉克索莫尼",
+        "symbol": ""
+    },
+    "TMT": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1f2.svg",
+        "displayName": "土库曼马纳特",
+        "symbol": ""
+    },
+    "TND": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1f3.svg",
+        "displayName": "突尼斯第纳尔",
+        "symbol": ""
+    },
+    "TOP": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1f4.svg",
+        "displayName": "汤加潘加",
+        "symbol": ""
+    },
+    "TRY": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1f7.svg",
+        "displayName": "土耳其里拉",
+        "symbol": "₺"
+    },
+    "TTD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1f9.svg",
+        "displayName": "特立尼达和多巴哥元",
+        "symbol": "TT$"
+    },
+    "TWD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1fc.svg",
+        "displayName": "新台币",
+        "symbol": "NT$"
+    },
+    "TZS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f9-1f1ff.svg",
+        "displayName": "坦桑尼亚先令",
+        "symbol": ""
+    },
+    "UAH": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fa-1f1e6.svg",
+        "displayName": "乌克兰格里夫纳",
+        "symbol": "₴"
+    },
+    "UGX": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fa-1f1ec.svg",
+        "displayName": "乌干达先令",
+        "symbol": ""
+    },
+    "USD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fa-1f1f8.svg",
+        "displayName": "美元",
+        "symbol": "$"
+    },
+    "UYU": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fa-1f1fe.svg",
+        "displayName": "乌拉圭比索",
+        "symbol": "$U"
+    },
+    "UZS": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fa-1f1ff.svg",
+        "displayName": "乌兹别克斯坦苏姆",
+        "symbol": "лв"
+    },
+    "VES": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fb-1f1ea.svg",
+        "displayName": "委内瑞拉玻利瓦尔",
+        "symbol": "Bs"
+    },
+    "VND": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fb-1f1f3.svg",
+        "displayName": "越南盾",
+        "symbol": "₫"
+    },
+    "VUV": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fb-1f1fa.svg",
+        "displayName": "瓦努阿图瓦图",
+        "symbol": ""
+    },
+    "WST": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fc-1f1f8.svg",
+        "displayName": "萨摩亚塔拉",
+        "symbol": ""
+    },
+    "XAF": {
+        "icon": "",
+        "displayName": "中非法郎",
+        "symbol": ""
+    },
+    "XAG": {
+        "icon": "",
+        "displayName": "白银（盎司）",
+        "symbol": ""
+    },
+    "XAU": {
+        "icon": "",
+        "displayName": "黄金（盎司）",
+        "symbol": ""
+    },
+    "XCD": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e6-1f1ec.svg",
+        "displayName": "东加勒比元",
+        "symbol": "$"
+    },
+    "XOF": {
+        "icon": "",
+        "displayName": "西非法郎",
+        "symbol": ""
+    },
+    "XPF": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f5-1f1eb.svg",
+        "displayName": "太平洋法郎",
+        "symbol": ""
+    },
+    "YER": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1fe-1f1ea.svg",
+        "displayName": "也门里亚尔",
+        "symbol": "﷼"
+    },
+    "ZAR": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ff-1f1e6.svg",
+        "displayName": "南非兰特",
+        "symbol": "R"
+    },
+    "ZMW": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ff-1f1f2.svg",
+        "displayName": "赞比亚克瓦查",
+        "symbol": "ZK"
+    },
+    "ZWL": {
+        "icon": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ff-1f1fc.svg",
+        "displayName": "津巴布韦元",
+        "symbol": ""
+    }
+}
