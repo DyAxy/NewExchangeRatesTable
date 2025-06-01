@@ -21,6 +21,11 @@ jobs:
         run: |
           bun install
           bun run index.ts
+        env:
+          DEFAULT_API_KEY: ${{ secrets.DEFAULT_API_KEY }}
+          NEUTRINO_USER_ID: ${{ secrets.NEUTRINO_USER_ID }}
+          NEUTRINO_API_KEY: ${{ secrets.NEUTRINO_API_KEY }}
+          WISE_API_KEY: ${{ secrets.WISE_API_KEY }}
 
       - name: Commit files
         run: |
