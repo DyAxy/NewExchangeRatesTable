@@ -156,6 +156,7 @@ const main = async (): Promise<void> => {
   }
 
   console.log("🎉 程序执行完成");
+  process.exit(1);
 };
 
 // 启动程序
