@@ -14,6 +14,23 @@ const initializeDataDir = (): void => {
   }
 };
 
+// 加载旧数据
+const loadData = (fileName: string): ResultData | null => {
+  const filePath = path.join(DATA_DIR, `${fileName}.json`);
+  if (!fs.existsSync(filePath)) {
+    console.warn(`⚠️ 未找到旧数据文件: ${filePath}`);
+    return null;
+  }
+
+  try {
+    const data = fs.readFileSync(filePath, "utf-8");
+    return JSON.parse(data);
+  } catch (error) {
+    console.error(`❌ 加载旧数据失败 ${fileName}:`, error);
+    return null;
+  }
+};
+
 // 保存数据到文件
 const saveData = (fileName: string, data: ResultData): void => {
   if (!data || typeof data !== "object") {
@@ -21,10 +38,37 @@ const saveData = (fileName: string, data: ResultData): void => {
     return;
   }
 
-  const outputPath = path.join(DATA_DIR, `${fileName}.json`);
+  // 加载旧数据
+  const oldData = loadData(fileName);
+  const merged: ResultData = {
+    // 如果新数据有 timestamp 则使用它，否则使用旧数据的 timestamp，若都没有则使用当前时间
+    timestamp: data.timestamp ?? oldData?.timestamp ?? Date.now(),
+    data: {},
+  } as ResultData;
+
+  // 首先把旧数据全部拷贝过来（如果存在）
+  if (oldData && oldData.data && typeof oldData.data === "object") {
+    for (const key in oldData.data) {
+      const oldValue = oldData.data[key];
+      if (typeof oldValue === "number") {
+        merged.data[key] = oldValue;
+      }
+    }
+  }
+  // 用新数据覆盖（仅当新值有效时覆盖）
+  if (data.data && typeof data.data === "object") {
+    for (const key in data.data) {
+      const value = data.data[key];
+      if (value !== undefined && typeof value === "number" && value > 0) {
+        merged.data[key] = value;
+      }
+    }
+  }
+
+  const filePath = path.join(DATA_DIR, `${fileName}.json`);
   try {
-    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-    console.log(`✅ 结果已保存到: ${outputPath}`);
+    fs.writeFileSync(filePath, JSON.stringify(merged, null, 2));
+    console.log(`✅ 结果已保存到: ${filePath}`);
   } catch (error) {
     console.error(`❌ 保存文件失败 ${fileName}:`, error);
   }
