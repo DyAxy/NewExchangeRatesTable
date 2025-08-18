@@ -1,0 +1,22 @@
+[
+    {
+        "id": "neutrino",
+        "name": "默认汇率"
+    },
+    {
+        "id": "wise",
+        "name": "Wise"
+    },
+    {
+        "id": "visa",
+        "name": "Visa"
+    },
+    {
+        "id": "unionpay",
+        "name": "银联"
+    },
+    {
+        "id": "coinbase",
+        "name": "Coinbase"
+    }
+]
